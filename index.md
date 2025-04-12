@@ -5,4 +5,4 @@
 ##### Title <h5>
 ###### Title <h6>
 
-Esse arquivo foi alteração para incluir demonstração prática da formatação de títulos em markdown.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
